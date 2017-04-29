@@ -10,8 +10,8 @@ Live version available at _(CLEARNET-under development)_ or _(TOR-under developm
 
 Github URL: https://github.com/itsKV/CoinBinPlus
 
-CoinBinPlus supports all key features offered by "coinbin by OutCast3k" such as: 
 
+CoinBinPlus supports all key features offered by "coinbin by OutCast3k" such as: 
 - Offline Compressed & uncompressed Address creation.
 - Offline Multisignature Address creation.
 - "In browser" Key (re)generation. 
@@ -26,7 +26,7 @@ CoinBinPlus supports all key features offered by "coinbin by OutCast3k" such as:
 - Support current Dark Wallet Stealth Address structure (as of version Alpha 7) for outputs.
 - Brain wallet support.
 - Compatible with bitcoin-qt
-- An offical .onion address for tor users.
+- An offical .onion address for tor users. (coming soon..)
 - Offline qrcode creator and scanning tool
 - HD (bip32) support
 - Supports altcoins such as litecoin
@@ -36,5 +36,5 @@ Plus more added features as:-
 - Coming soon...
 
 ***
-Please consider donating us :- **17qK8TLHpcWkirJzie5xUFRotcAjPLeQTM**
+Please consider donating us :- [**17qK8TLHpcWkirJzie5xUFRotcAjPLeQTM**](bitcoin:17qK8TLHpcWkirJzie5xUFRotcAjPLeQTM)
 ***
