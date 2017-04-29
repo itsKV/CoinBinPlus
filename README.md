@@ -1,13 +1,15 @@
-coinbin
+CoinBinPlus
 =======
+*Currently under ALPHA phase. Don't use this in any manner*
 
-A Open Source Browser Based Bitcoin Wallet. Version 1.2 beta by OutCast3k
+A Open Source Browser Based Bitcoin Wallet. Version 0.1-ALPHA by itsKV. 
+This application is written to enhance features provided by "coinbin by OutCast3k" and offer a complete Bitcoin package for developers
 
-Live version available at http://coinb.in/ or http://4zpinp6gdkjfplhk.onion
+Live version available at (CLEARNET-under development) or (TOR-under development)
 
-Github URL: https://github.com/OutCast3k/coinbin/
+Github URL: https://github.com/itsKV/CoinBinPlus
 
-Coinb.in supports a number of key features such as: 
+CoinBinPlus supports all key features offered by "coinbin by OutCast3k" such as: 
 
 - Offline Compressed & uncompressed Address creation.
 - Offline Multisignature Address creation.
@@ -27,6 +29,10 @@ Coinb.in supports a number of key features such as:
 - Offline qrcode creator and scanning tool
 - HD (bip32) support
 - Supports altcoins such as litecoin
-- Replace by fee (RBF) Support
+- Replace by fee (RBF) Support 
 
-Donate to 1CWHWkTWaq1K5hevimJia3cyinQsrgXUvg to see more development!
+// Plus more added features as:- //
+
+- 
+
+
